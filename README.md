@@ -38,7 +38,7 @@
 <img width="1869" height="864" alt="Screenshot 2025-07-29 210602" src="https://github.com/user-attachments/assets/08d39929-fe9a-4f87-ba62-307f5ae8c1bf" />
 <h3> User Signup Page</h3>
 <img width="1891" height="862" alt="Screenshot 2025-07-30 151455" src="https://github.com/user-attachments/assets/d6b1333c-3008-4d5a-bed0-63fa560f51dc" />
-<h3> User Dshboard Page</h3>
+<h3> User Dashboard Page</h3>
 <img width="1892" height="668" alt="Screenshot 2025-07-30 150424" src="https://github.com/user-attachments/assets/e2cd4507-4bfa-4953-aded-7a2d98b5b574" />
 <h3> User Add-Post Page</h3>
 <img width="1882" height="861" alt="Screenshot 2025-07-29 210705" src="https://github.com/user-attachments/assets/78e00bb4-dd1d-4a52-ade4-4f11aa362b96" />

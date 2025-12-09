@@ -44,4 +44,5 @@
 <img width="1882" height="861" alt="Screenshot 2025-07-29 210705" src="https://github.com/user-attachments/assets/78e00bb4-dd1d-4a52-ade4-4f11aa362b96" />
 
 <h3> Footer Page</h3>
-<img width="1878" height="863" alt="Screenshot 2025-07-30 150712" src="https://github.com/user-attachments/assets/e8b83ad7-a6ee-4f10-9944-a8d470010766" />
+<img width="1879" height="855" alt="Screenshot 2025-12-09 122140" src="https://github.com/user-attachments/assets/fcac6f5d-f896-4570-ba7e-6656744cbec5" />
+
